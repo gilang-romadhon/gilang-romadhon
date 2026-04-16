@@ -2,7 +2,6 @@
 
 Electronics & Instrumentation student at **Universitas Gadjah Mada**
 
-🔭 Currently working on: IoT-based monitoring systems
 🌱 Learning: Embedded C, Electronis, PCB design
 🚀 Member of: GMAT (Gadjah Mada Aerospace Team)
 📫 Contact: gilangromadhon@mail.ugm.ac.id
